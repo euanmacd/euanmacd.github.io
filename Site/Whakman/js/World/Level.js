@@ -1,4 +1,4 @@
-// level generator/manager
+// level generator/manager.
 var Level = function(tile_w, tile_h)
 {
     var level = {};
