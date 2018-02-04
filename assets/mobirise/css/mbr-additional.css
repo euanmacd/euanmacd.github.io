@@ -1,5 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
 
 
 #msg-box3-24 .mbr-header .mbr-header__text {
@@ -43,6 +44,7 @@
 #msg-box4-19 .mbr-article P {
   color: #000000;
   font-size: 14px;
+  font-family: 'Roboto', sans-serif;
 }
 #msg-box1-13 .mbr-header .mbr-header__text {
   color: #fff;
