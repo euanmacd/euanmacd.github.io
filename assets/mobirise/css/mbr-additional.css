@@ -1,11 +1,65 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 #msg-box3-24 .mbr-header .mbr-header__text {
   text-align: center;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box3-24 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -17,6 +71,7 @@
 }
 #msg-box3-24 .btn {
   font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box3-24 .mbr-header .mbr-header__subtext SPAN {
   text-align: center;
@@ -25,15 +80,25 @@
   font-size: 14px;
   color: #000000;
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box3-24 .mbr-header .mbr-header__text SPAN {
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box1-20 .mbr-header .mbr-header__text {
   color: #fff;
+  text-align: left;
 }
 #msg-box1-20 .mbr-article {
   color: #fff;
 }
+#msg-box1-20 .mbr-header .mbr-header__text SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
 #msg-box4-21 .mbr-header__text {
   color: #000000;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
 }
 #msg-box4-21 .mbr-header__subtext {
   color: #ffffff;
@@ -44,15 +109,26 @@
 #msg-box4-21 .mbr-article P {
   color: #000000;
   font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-21 .mbr-header__text SPAN {
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-21 .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box1-23 .mbr-header .mbr-header__text {
   color: #fff;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box1-23 .mbr-article {
   color: #fff;
 }
 #msg-box4-19 .mbr-header__text {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box4-19 .mbr-header__subtext {
   color: #ffffff;
@@ -63,7 +139,10 @@
 #msg-box4-19 .mbr-article P {
   color: #000000;
   font-size: 14px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-19 .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box1-13 .mbr-header .mbr-header__text {
   color: #fff;
@@ -71,8 +150,13 @@
 #msg-box1-13 .mbr-article {
   color: #fff;
 }
+#msg-box1-13 .mbr-header .mbr-header__text P {
+  font-family: 'Open Sans', sans-serif;
+}
 #msg-box4-16 .mbr-header__text {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box4-16 .mbr-header__subtext {
   color: #ffffff;
@@ -83,13 +167,20 @@
 #msg-box4-16 .mbr-article P {
   font-size: 14px;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box4-16 .mbr-article UL {
   font-size: 14px;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-16 .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box4-17 .mbr-header__text {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box4-17 .mbr-header__subtext {
   color: #ffffff;
@@ -100,13 +191,17 @@
 #msg-box4-17 .mbr-article P {
   font-size: 14px;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box4-17 .mbr-article UL {
   font-size: 14px;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box5-15 .mbr-header__text {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box5-15 .mbr-header__subtext {
   color: #ffffff;
@@ -117,13 +212,19 @@
 #msg-box5-15 .mbr-article P {
   color: #000000;
   font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box5-15 .mbr-article UL {
   font-size: 14px;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-15 .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box4-14 .mbr-header__text {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box4-14 .mbr-header__subtext {
   color: #ffffff;
@@ -133,20 +234,28 @@
 }
 #msg-box4-14 .mbr-article P {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box4-14 .mbr-article UL {
   color: #000000;
   font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-14 .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box1-17 .mbr-header .mbr-header__text {
   color: #fff;
   text-align: left;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box1-17 .mbr-article {
   color: #fff;
 }
 #msg-box4-10 .mbr-header__text {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box4-10 .mbr-header__subtext {
   color: #ffffff;
@@ -163,9 +272,15 @@
 #msg-box4-10 .mbr-article UL {
   font-size: 14px;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-10 .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box5-8 .mbr-header__text {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box5-8 .mbr-header__subtext {
   color: #ffffff;
@@ -176,13 +291,20 @@
 #msg-box5-8 .mbr-article P {
   font-size: 14px;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box5-8 .mbr-article UL {
   font-size: 14px;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-8 .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box5-11 .mbr-header__text {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box5-11 .mbr-header__subtext {
   color: #ffffff;
@@ -193,15 +315,22 @@
 #msg-box5-11 .mbr-article P {
   font-size: 14px;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-11 .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box1-16 .mbr-header .mbr-header__text {
   color: #fff;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box1-16 .mbr-article {
   color: #fff;
 }
 #msg-box4-22 .mbr-header__text {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box4-22 .mbr-header__subtext {
   color: #ffffff;
@@ -212,9 +341,14 @@
 #msg-box4-22 .mbr-article P {
   color: #000000;
   font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-22 .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box4-12 .mbr-header__text {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box4-12 .mbr-header__subtext {
   color: #ffffff;
@@ -224,9 +358,15 @@
 }
 #msg-box4-12 .mbr-article P {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-12 .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box4-13 .mbr-header__text {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box4-13 .mbr-header__subtext {
   color: #ffffff;
@@ -237,9 +377,15 @@
 #msg-box4-13 .mbr-article P {
   font-size: 14px;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-13 .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box4-14 .mbr-header__text {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box4-14 .mbr-header__subtext {
   color: #ffffff;
@@ -253,6 +399,7 @@
 }
 #msg-box4-12 .mbr-header__text {
   color: #000000;
+  font-size: 20px;
 }
 #msg-box4-12 .mbr-header__subtext {
   color: #ffffff;
@@ -263,6 +410,7 @@
 #msg-box4-12 .mbr-article UL {
   font-size: 14px;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box4-12 .mbr-article P {
   font-size: 14px;
@@ -270,7 +418,8 @@
 }
 #msg-box4-15 .mbr-header__text {
   color: #000000;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box4-15 .mbr-header__subtext {
   color: #ffffff;
@@ -281,4 +430,8 @@
 #msg-box4-15 .mbr-article P {
   font-size: 14px;
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-15 .btn {
+  font-family: 'Open Sans', sans-serif;
 }
