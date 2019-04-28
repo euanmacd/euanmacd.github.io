@@ -26,6 +26,25 @@
   color: #000000;
   text-align: center;
 }
+#msg-box1-20 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-20 .mbr-article {
+  color: #fff;
+}
+#msg-box4-21 .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-21 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-21 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-21 .mbr-article P {
+  color: #000000;
+  font-size: 14px;
+}
 #msg-box1-23 .mbr-header .mbr-header__text {
   color: #fff;
 }
