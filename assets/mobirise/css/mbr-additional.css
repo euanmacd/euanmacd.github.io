@@ -1,5 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+
+
+
+
+
+
+
+
 
 
 
@@ -85,6 +93,31 @@
 #msg-box3-24 .mbr-header .mbr-header__text SPAN {
   font-family: 'Open Sans', sans-serif;
 }
+#msg-box1-23 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-23 .mbr-article {
+  color: #fff;
+}
+#msg-box4-26 .mbr-header__text {
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-26 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-26 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-26 .mbr-article P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+#msg-box4-26 .btn {
+  font-family: 'Open Sans', sans-serif;
+}
 #msg-box1-20 .mbr-header .mbr-header__text {
   color: #fff;
   text-align: left;
@@ -95,9 +128,47 @@
 #msg-box1-20 .mbr-header .mbr-header__text SPAN {
   font-family: 'Open Sans', sans-serif;
 }
+#msg-box4-28 .mbr-header__text {
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-28 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-28 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-28 .mbr-article P {
+  font-size: 14px;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-28 .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-27 .mbr-header__text {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
+#msg-box4-27 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-27 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-27 .mbr-article P {
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  font-size: 14px;
+}
+#msg-box4-27 .btn {
+  font-family: 'Open Sans', sans-serif;
+}
 #msg-box4-21 .mbr-header__text {
   color: #000000;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 20px;
 }
 #msg-box4-21 .mbr-header__subtext {
@@ -181,6 +252,7 @@
   color: #000000;
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
+  text-align: left;
 }
 #msg-box4-17 .mbr-header__subtext {
   color: #ffffff;
