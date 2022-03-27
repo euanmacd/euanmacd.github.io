@@ -64,6 +64,9 @@
 
 
 
+
+
+
 #msg-box3-24 .mbr-header .mbr-header__text {
   text-align: center;
   color: #000000;
@@ -91,6 +94,28 @@
   font-family: 'Open Sans', sans-serif;
 }
 #msg-box3-24 .mbr-header .mbr-header__text SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box1-23 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-23 .mbr-article {
+  color: #fff;
+}
+#msg-box4-1 .mbr-header__text {
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-1 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1 .mbr-article {
+  color: #000000;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-1 .btn {
   font-family: 'Open Sans', sans-serif;
 }
 #msg-box1-23 .mbr-header .mbr-header__text {
